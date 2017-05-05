@@ -1,0 +1,118 @@
+Artist ID  Artist Name  Art ID          Art Title           Appraised Value 
+
+  1         Acconci      1038               Spring Flowers          800
+  1         Acconci      1050                 Cattle Ranch        10000
+  1         Acconci      1103                    Trail End         8000
+  2            Budd      1042          Coffee on the Trail         7544
+  2            Budd      1086  Untitled (desert landscape)        18000
+  2            Budd      1101                 The Red Door        10000
+  3       Carpenter      1010   Untitled (land with adobe)          800
+  3       Carpenter      1013                Superstitions        78000
+  3       Carpenter      1019              The White Heart         9300
+  3       Carpenter      1021                    Bead Wall        14000
+  3       Carpenter      1022                   The Cowboy         4200
+  3       Carpenter      1025           Profile of a Woman          625
+  3       Carpenter      1034           Beaver Pole Jumble        28000
+  3       Carpenter      1058                The Gathering          250
+  3       Carpenter      1063         Asleep in the Garden       110000
+  3       Carpenter      1080              The Dust Behind        18000
+  3       Carpenter      1095                   The Spirit        20000
+  3       Carpenter      1104                    Untitled          1800
+  4            Dill      1070                   Beginnings        27500
+  4            Dill      1079            Carrying the Mail         8000
+  4            Dill      1111  Untitled (man and crucifix)         3200
+  5         Edwards      1020  Untitled (Man holding coat)         3000
+  5         Edwards      1036                    Blackhawk        25500
+  5         Edwards      1093                   Antelopes         12500
+  6         Fleming      1004              Seeking Shelter        52000
+  6         Fleming      1012             Man on Horseback         8000
+  6         Fleming      1016                     Untitled         6000
+  6         Fleming      1017                  Brittlecone         1300
+  6         Fleming      1033    Untitled (Woman abstract)         2500
+  6         Fleming      1053             Blue Eyed Indian        40000
+  6         Fleming      1056            Cavalry Is Coming         1900
+  6         Fleming      1066        Untitled (still life)        19500
+  6         Fleming      1075      Western Boots and Spurs         6000
+  6         Fleming      1077                  Bull Riding         5200
+  6         Fleming      1083                     Untitled         2500
+  6         Fleming      1085                       Traces        20000
+  6         Fleming      1097               Untitled (Sea)         2800
+  6         Fleming      1108               Untitled Mural          400
+  6         Fleming      1110                Three Sisters         6500
+  7          Garber      1024            Spirit and Nature          592
+  7          Garber      1026            Untitled (couple)         4000
+  7          Garber      1032                   Rising Sun         2000
+  7          Garber      1037               Floating World         2350
+  7          Garber      1049       Buttercup with Red Lip          400
+  7          Garber      1054                Snake Charmer         4500
+  7          Garber      1061               Untitled Mural         3520
+  7          Garber      1091                Stone Palette        11500
+  7          Garber      1114 Storytelling at the Campfire        18000
+  8         Higgins      1018               Mountain Scene         2500
+  8         Higgins      1057                     Untitled         4500
+  8         Higgins      1060                 Story Sticks          650
+  8         Higgins      1064               Spirit Columns         7000
+  8         Higgins      1067                Owl in Flight         7000
+  8         Higgins      1068                    Moonlight         9750
+  8         Higgins      1071              Ride the Rapids          300
+  8         Higgins      1074            Storm on the Rise         8000
+  8         Higgins      1109                      Friends        16000
+  9             Ibe      1001            Red Rock Mountain        18000
+  9             Ibe      1002                   Offerings         10000
+  9             Ibe      1044               Mexican Fiesta        14000
+  9             Ibe      1055              Starlit Evening         9500
+  9             Ibe      1069                  Renaissance         5500
+  9             Ibe      1084     Crossing the Platt River         2200
+  9             Ibe      1098                Sweet Project          592
+ 10        Kollasch      1028                 Tired Cowboy         4700
+ 10        Kollasch      1047                 Medicine Man         2500
+ 10        Kollasch      1048                  Comfy Chair          800
+ 10        Kollasch      1072                       Funnel         4500
+ 10        Kollasch      1089                 Life Lessons         4125
+ 10        Kollasch      1096            Ceremonial Sticks        15000
+ 10        Kollasch      1113                 Shadow House         5500
+ 11          Lerman      1090                 Off the Grid         8000
+ 11          Lerman      1115                 Starry Night         8500
+ 12            Metz      1003               Spring Flowers         2400
+ 12            Metz      1008              End of the Path         1900
+ 13         Novarre      1081            Coming Under Fire          650
+ 13         Novarre      1112                  Dark Canyon         8000
+ 14          Ortega      1006             House Remembered          700
+ 14          Ortega      1009                         Amen         3000
+ 14          Ortega      1014                       Plenty          500
+ 14          Ortega      1015                        Punch        10000
+ 14          Ortega      1030                    Ash Bench        13000
+ 14          Ortega      1039                    Treachery        20000
+ 14          Ortega      1046      Immediate Gratification         1500
+ 14          Ortega      1076              Ride the Bronco         1500
+ 14          Ortega      1102                  Crying Hats        10000
+ 15          Parker      1023          Shooting the Rapids         1300
+ 15          Parker      1031                   Inside/Out         3500
+ 15          Parker      1043              Creosote Bushes        18000
+ 15          Parker      1073         Dancing in the Light         4000
+ 15          Parker      1105                  Meteor Show        10000
+ 16            Penn      1027             Mountain Climber         4700
+ 16            Penn      1052               American Rodeo         3500
+ 16            Penn      1078                   Chuckwagon        32000
+ 16            Penn      1087                  Three Woman        20000
+ 16            Penn      1107             Striking It Rich         1750
+ 17        Pierobon      1007      Homage to the Ancestors         1200
+ 17        Pierobon      1035               Nature/Nurture         1300
+ 17        Pierobon      1041                Night Version         3800
+ 17        Pierobon      1051                Night Version         7000
+ 17        Pierobon      1059                     Dwelling        16000
+ 18         Prinzen      1005                     The Hang         8000
+ 18         Prinzen      1040          Night on the Praire         1300
+ 18         Prinzen      1082               Spring Flowers        20000
+ 18         Prinzen      1088                      Lessons         3700
+ 18         Prinzen      1094                Life Is Sweet        25000
+ 19          Quiroz      1011                          Eve          975
+ 19          Quiroz      1045                Leaf Patterns         2100
+ 19          Quiroz      1065                    Moonlite          1300
+ 19          Quiroz      1106                 Horse Corral        12500
+ 19          Quiroz      1116               Apache Warrior        23000
+ 20            Rath      1029              Horseshoe Falls        15000
+ 20            Rath      1062            Cowboy and Saddle        18000
+ 20            Rath      1092                  Dressing Up         1300
+ 20            Rath      1099           Watch That Rattler          900
+ 20            Rath      1100               Hungry Cowboys          750
